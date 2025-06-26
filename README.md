@@ -2,11 +2,11 @@
 
 <p align="center">
   🎓 B.Tech | AI & ML Enthusiast | Python Developer <br>
-  🪖 Ex-Officer Trainee @ Officers Training Academy (Technical Entry Scheme)
+  Ex-Officer Trainee @ Officers Training Academy (Technical Entry Scheme)
 </p>
 
 <p align="center">
-  <a href="mailto:gentleakshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="gentleakshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gentleakshit/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/gentleakshit1"><img src="https://img.shields.io/github/followers/gentleakshit1?label=GitHub&style=flat&logo=github"/></a>
 </p>
@@ -21,11 +21,11 @@ Before diving deep into the tech world, I had the honor of training at the **Off
 
 ## 💻 Tech Stack & Skills
 
-- **Languages:** Python, C, C++, JavaScript
+- **Languages:** Python, C, C++, HTML
 - **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, sqlite3
 - **AI/ML:** NumPy, Pandas, Scikit-learn, Matplotlib
-- **Tools & Frameworks:** Git, Flask, Jupyter, Google Colab, VS Code
+- **Tools & Frameworks:** Git, Flask, Django, Jupyter, Google Colab, VS Code
 
 ---
 
@@ -36,23 +36,14 @@ Here are a few highlights from my repositories. Be sure to explore them all on m
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🧠 Handwritten Digit Generator | A web app using GANs to generate MNIST-style digits. Trained from scratch, deployed using Flask. | PyTorch, Flask, Colab |
-| 📊 Student Score Manager | A system for managing and analyzing student marks data using clean Python back-end logic and visualization. | Python, Matplotlib |
-| 🎮 Tic-Tac-Toe Game | Originally built in C, later re-implemented in JavaScript for web-based play and deployment. | C, JavaScript, HTML/CSS |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gentleakshit1&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gentleakshit1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
-</p>
+| 📊 Student Score Manager | A system for managing and analyzing student marks data using clean Python back-end logic and visualization. | Python, Django |
+| 🎮 Tic-Tac-Toe Game | Originally built in C, later re-implemented in JavaScript for web-based play and deployment. | C, JavaScript, HTML/CSS |  [DEMO]([https://github.com/gentleakshit1?tab=repositories](https://www.youtube.com/watch?v=YMWhPhrH9PM&t=11s))
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: [gentleakshit@gmail.com](mailto:gentleakshit@gmail.com)
+- 📧 Email: [gentleakshit@gmail.com](gentleakshit@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gentleakshit](https://www.linkedin.com/in/gentleakshit/)
 - 🧠 Portfolio site: *Coming Soon!*
 
