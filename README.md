@@ -11,7 +11,7 @@
 
 ---
 
-## 🪖 A Unique Journey
+## 🚀 A Unique Journey
 
 Before diving deep into the tech world, I had the honor of training at the **Officers Training Academy (OTA)** under the **Technical Entry Scheme (TES)**. This experience instilled in me discipline, leadership, and a mission-oriented mindset that continues to guide my journey in technology and innovation.
 
