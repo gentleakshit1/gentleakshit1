@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Akshit Sharma 👋</h1>
 
-<!--
-**gentleakshit1/gentleakshit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 B.Tech | AI & ML Enthusiast | Python Developer <br>
+  🪖 Ex-Officer Trainee @ Officers Training Academy (Technical Entry Scheme)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:gentleakshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gentleakshit/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gentleakshit1"><img src="https://img.shields.io/github/followers/gentleakshit1?label=GitHub&style=flat&logo=github"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🪖 A Unique Journey
+
+Before diving deep into the tech world, I had the honor of training at the **Officers Training Academy (OTA)** under the **Technical Entry Scheme (TES)**. This experience instilled in me discipline, leadership, and a mission-oriented mindset that continues to guide my journey in technology and innovation.
+
+---
+
+## 💻 Tech Stack & Skills
+
+- **Languages:** Python, C, C++, JavaScript
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
+- **Databases:** MySQL, MongoDB
+- **AI/ML:** NumPy, Pandas, Scikit-learn, Matplotlib
+- **Tools & Frameworks:** Git, Flask, Jupyter, Google Colab, VS Code
+
+---
+
+## 🚀 Featured Projects
+
+Here are a few highlights from my repositories. Be sure to explore them all on my [GitHub profile](https://github.com/gentleakshit1?tab=repositories)!
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 Handwritten Digit Generator | A web app using GANs to generate MNIST-style digits. Trained from scratch, deployed using Flask. | PyTorch, Flask, Colab |
+| 📊 Student Score Manager | A system for managing and analyzing student marks data using clean Python back-end logic and visualization. | Python, Matplotlib |
+| 🎮 Tic-Tac-Toe Game | Originally built in C, later re-implemented in JavaScript for web-based play and deployment. | C, JavaScript, HTML/CSS |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gentleakshit1&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gentleakshit1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [gentleakshit@gmail.com](mailto:gentleakshit@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gentleakshit](https://www.linkedin.com/in/gentleakshit/)
+- 🧠 Portfolio site: *Coming Soon!*
+
+---
+
+> “Discipline from the battlefield, creativity in the code.”
