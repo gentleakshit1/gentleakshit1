@@ -2,13 +2,13 @@
 
 <p align="center">
   🎓 B.Tech | AI & ML Enthusiast | Python Developer <br>
-  🪖 Ex-Officer Trainee @ Officers Training Academy (Technical Entry Scheme)
+   Ex-Officer Trainee @ Officers Training Academy (Technical Entry Scheme)
 </p>
 
 <p align="center">
-  <a href="mailto:gentleakshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  
   <a href="https://www.linkedin.com/in/gentleakshit/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/gentleakshit1"><img src="https://img.shields.io/github/followers/gentleakshit1?label=GitHub&style=flat&logo=github"/></a>
+  
 </p>
 
 ---
